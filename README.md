@@ -23,3 +23,6 @@ Visit the [wiki](https://github.com/Avaya-CXI/virtual-agent-public/wiki) for mor
 * Copy your new number into the `Avaya Cloud Number` field. Example `+15551231234`
   - Choose the language and voice you want or leave it to the default English and male voice. 
   - Dialogflow configuration will shown later, do not worry about it for now.
+
+### Start Building with your new Virtual Agent 
+* Go to the `Menu` tab.
