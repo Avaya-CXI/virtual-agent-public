@@ -15,6 +15,8 @@ Visit the [wiki](https://github.com/Avaya-CXI/virtual-agent-public/wiki) for mor
   - **Voice Request URL** `https://virtuagent.apps.avayacloud.com/voice/` 
   - **SMS Request URL** to `https://virtualagent.apps.avayacloud.com/cpaas-sms`
 
+![Screen Shot 2021-08-25 at 6 55 52 AM](https://user-images.githubusercontent.com/23265287/130786448-de5ca22b-586e-4b9f-a777-64bd051e3151.png)
+
 ### Configure your new number on Virtual Agent
 * Go to [Virtual Agent](https://virtualagent.apps.avayacloud.com)
 * Sign in with your *@avaya* account with SSO
