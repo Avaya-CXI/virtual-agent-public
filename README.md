@@ -24,5 +24,7 @@ Visit the [wiki](https://github.com/Avaya-CXI/virtual-agent-public/wiki) for mor
   - Choose the language and voice you want or leave it to the default English and male voice. 
   - Dialogflow configuration will shown later, do not worry about it for now.
 
+![Screen Shot 2021-08-25 at 6 53 17 AM](https://user-images.githubusercontent.com/23265287/130785936-951a853a-0fa8-4e91-8823-be2c15c5f988.png)
+
 ### Start Building with your new Virtual Agent 
 * Go to the `Menu` tab.
