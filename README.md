@@ -12,7 +12,7 @@ Visit the [wiki](https://github.com/Avaya-CXI/virtual-agent-public/wiki) for mor
 * Click `Configure` to finish setting up your new number in the CPaaS Console.
 * Give your new number a friendly name (optional), such as *Virtual Agent Demo*
 * Configure the WebLinks for voice and SMS to use **Virtual Agent** by setting 
-  - **Voice Request URL** `https://virtualgent.apps.avayacloud.com/voice/` 
+  - **Voice Request URL** `https://virtualagent.apps.avayacloud.com/voice/` 
   - **SMS Request URL** to `https://virtualagent.apps.avayacloud.com/cpaas-sms`
 
 ![Screen Shot 2021-08-25 at 6 55 52 AM](https://user-images.githubusercontent.com/23265287/130786448-de5ca22b-586e-4b9f-a777-64bd051e3151.png)
